@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: beige;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+}
+.box-container-1{
+    display: flex;
+    justify-content: center;
+}
+.box-container-2{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    margin: 0.95%;
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: white;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  h1, h2, h3, h4 {
+    font-weight: 600;
+  }
+  p {
+    font-weight: 400;
+  }
+
+
+
+
+
