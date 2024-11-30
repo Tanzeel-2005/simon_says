@@ -13,3 +13,13 @@ A fun and interactive memory game built with HTML, CSS, and JavaScript! Watch th
 4. The game ends if you make a mistake.  
 
 Happy playing! 😊  
+
+## Snapshots 
+![Screenshot 2024-11-30 081727](https://github.com/user-attachments/assets/26521d8e-2490-46c8-9016-16b4e9285372)
+![Screenshot 2024-11-30 081747](https://github.com/user-attachments/assets/c24c0015-1341-4aa2-921e-3ab0a141fc36)
+![Screenshot 2024-11-30 081733](https://github.com/user-attachments/assets/a9e9ccbd-f657-477a-98cb-e40be8d95988)
+
+
+
+
+
